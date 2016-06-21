@@ -1,0 +1,24 @@
+{
+  "name": "null-duplex-stream",
+  "version": "0.0.1",
+  "description": "a /dev/null duplex stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "cat index.js | node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/picospuch/NullDuplexStream.git"
+  },
+  "keywords": [
+    "/dev/null",
+    "duplex",
+    "stream"
+  ],
+  "author": "picospuch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/picospuch/NullDuplexStream/issues"
+  },
+  "homepage": "https://github.com/picospuch/NullDuplexStream#readme"
+}
