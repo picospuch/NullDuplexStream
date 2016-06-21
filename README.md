@@ -4,7 +4,7 @@ a duplex stream eat anything, milk nothing.
 
 ```js
 var fs = require('fs');
-var NullDuplexStream = require('../');
+var NullDuplexStream = require('null-duplex-stream');
 
 var nullStream = new NullDuplexStream();
 
